@@ -58,7 +58,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - TCP/IP Addressing & Subnetting in Windows  
 - **Python Simulation:** DHCP IP assignment  
 
-📥 **Notebook:** [Week5_Networks_Operating_Systems(1).ipynb](Week5_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week5_Networks_Operating_Systems.ipynb](Week5_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -70,7 +70,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - VLANs & network switching  
 - **Python Simulation:** Ethernet frame construction  
 
-📥 **Notebook:** [Week6_Networks_Operating_Systems .ipynb](Week6_Networks_Operating_Systems .ipynb)
+📥 **Notebook:** [Week6_Networks_Operating_Systems.ipynb](Week6_Networks_Operating_Systems.ipynb)
 
 ---
 

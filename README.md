@@ -13,7 +13,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - Packet-switching vs circuit-switching  
 - **Python Simulation:** Packet transmission  
 
-📥 **Notebook:** [Week1_Networks_Operating_Systems.ipynb](Week1/Week1_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week1_Networks_Operating_Systems.ipynb](Week1_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -24,7 +24,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - HTTP methods (GET, POST, PUT, DELETE)  
 - **Python Simulation:** Sending an HTTP request  
 
-📥 **Notebook:** [Week2_Networks_Operating_Systems.ipynb](Week2/Week2_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week2_Networks_Operating_Systems.ipynb](Week2_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -35,7 +35,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - Reliable vs unreliable transport protocols  
 - **Python Simulation:** UDP packet transmission  
 
-📥 **Notebook:** [Week3_Networks_Operating_Systems.ipynb](Week3/Week3_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week3_Networks_Operating_Systems.ipynb](Week3_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - Introduction to QUIC protocol  
 - **Python Simulation:** QUIC-like handshake over UDP  
 
-📥 **Notebook:** [Week4_Networks_Operating_Systems.ipynb](Week4/Week4_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week4_Networks_Operating_Systems.ipynb](Week4_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -58,7 +58,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - TCP/IP Addressing & Subnetting in Windows  
 - **Python Simulation:** DHCP IP assignment  
 
-📥 **Notebook:** [Week5_Networks_Operating_Systems.ipynb](Week5/Week5_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week5_Networks_Operating_Systems.ipynb](Week5_Networks_Operating_Systems(1).ipynb)
 
 ---
 
@@ -70,7 +70,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - VLANs & network switching  
 - **Python Simulation:** Ethernet frame construction  
 
-📥 **Notebook:** [Week6_Networks_Operating_Systems.ipynb](Week6/Week6_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week6_Networks_Operating_Systems.ipynb](Week6_Networks_Operating_Systems .ipynb)
 
 ---
 
@@ -82,7 +82,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - Linux process management and commands  
 - **Python Simulation:** Round Robin scheduling  
 
-📥 **Notebook:** [Week7_Networks_Operating_Systems.ipynb](Week7/Week7_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week7_Networks_Operating_Systems.ipynb](Week7_Networks_Operating_Systems.ipynb)
 
 ---
 
@@ -94,7 +94,7 @@ This repository serves as my portfolio for the Network Systems module. It includ
 - Comparison of OSs for university use  
 - **Python Simulation:** Basic file system operations  
 
-📥 **Notebook:** [Week8_Networks_Operating_Systems.ipynb](Week8/Week8_Networks_Operating_Systems.ipynb)
+📥 **Notebook:** [Week8_Networks_Operating_Systems.ipynb](Week8_Networks_Operating_Systems.ipynb)
 
 ---
 
